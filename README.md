@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm Thomas Deruel
+
+- 🔭 I’m currently working on my telegraf project
+- 🌱 I’m currently learning `Docker` and `Golang`
+
+## Spotify
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1114989307&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 <!--
 **ThomasDeruel/ThomasDeruel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
