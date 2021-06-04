@@ -2,7 +2,7 @@
 
 I'm Thomas, I'm 27, geek and gamer since my childhood 🤓, I **love anime** like *Attack on Titan*.
 
-I'm also a big of MMORPG like FF14.
+I'm also a big fan of MMORPG like FF14.
 
 ### About me
 
