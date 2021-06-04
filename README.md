@@ -13,7 +13,7 @@ I'm also a big fan of MMORPGs like FF14.
   - I don't like the taste of coffee ☕️ but I have to take some to develop well 
   - I prefer dogs 🐶 over cats 🐱
 
-### 🌈 Pride Month 🏳️‍🌈
+### 🌈 Happy Pride Month 🏳️‍🌈
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1114989307&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 <!--
