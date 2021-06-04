@@ -4,7 +4,7 @@ I'm Thomas Deruel
 
 - 🔭 I’m currently working on my telegraf project
 - 🌱 I’m currently learning `Docker` and `Golang`
-- 💬 You can find me on [LinkedIn](https://fr.linkedin.com/in/thomasderuel) 
+- 💬 You can find me on [LinkedIn](https://fr.linkedin.com/in/thomasderuel) and [Gitlab](https://gitlab.com/tderuel)
 
 ## 🌈 Pride Month 🏳️‍🌈
 
