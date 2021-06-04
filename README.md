@@ -4,8 +4,9 @@ I'm Thomas Deruel
 
 - 🔭 I’m currently working on my telegraf project
 - 🌱 I’m currently learning `Docker` and `Golang`
+- 💬 You can find me on [LinkedIn](https://fr.linkedin.com/in/thomasderuel) 
 
-## Spotify
+## 🌈 Pride Month 🏳️‍🌈
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1114989307&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 <!--
