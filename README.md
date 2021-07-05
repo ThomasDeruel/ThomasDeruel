@@ -1,4 +1,4 @@
-### Hi there 👋
+### 🌈 Hi there 👋
 
 I'm Thomas, I'm 27, I'm a geek && a gamer since my childhood 🤓, I **love animes** like *Attack on Titan*.
 
@@ -12,8 +12,6 @@ I'm also a big fan of MMORPGs like FF14.
 - ⚡ Fun fact: 
   - I don't like the taste of coffee ☕️ but I have to take some to develop well 
   - I prefer dogs 🐶 over cats 🐱
-
-### 🌈 Happy Pride Month 🏳️‍🌈
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1114989307&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=1114989307&redirect=true)
 <!--
